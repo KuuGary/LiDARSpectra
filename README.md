@@ -2,10 +2,10 @@
 ## Add-on for Blender
 
 ## Introduction
-Welcome to [LiDARSpectra add-on], an innovative Blender add-on designed to simulate Light Spectral Information. This add-on is built upon the VI-Suite, leveraging its features.
+Welcome to `LiDARSpectra add-on`, an innovative Blender add-on designed to simulate Light Spectral Information. This add-on is built upon the VI-Suite, leveraging its features.
 
 ## Prerequisites
-Before installing [LiDARSpectra add-on], ensure that you have Blender installed on your computer. This add-on requires Blender version [2.93.11] or later. Additionally, it is based on the VI-Suite add-on, which must be installed prior to installing our add-on.
+Before installing LiDARSpectra add-on, ensure that you have Blender installed on your computer. This add-on requires Blender version `2.93.11` or later. Additionally, it is based on the VI-Suite add-on, which must be installed prior to installing our add-on.
 
 ## Installation Instructions
 
