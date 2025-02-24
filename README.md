@@ -31,3 +31,13 @@ After installation, you can select the surfaces/objects in the scene and assign 
 
 ## Acknowledgements
 Please reference our paper:
+```
+@inproceedings{hu2024lidarspectra,
+  title={LiDARSpectra: Synthetic Indoor Spectral Mapping with Low-cost LiDARs},
+  author={Hu, Jiawei and Wang, Yanxiang and Jia, Hong and Jiang, Cheng and Hassan, Mahbub and Kusy, Brano and Hu, Wen},
+  booktitle={2024 23rd ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)},
+  pages={75--87},
+  year={2024},
+  organization={IEEE}
+}
+```
